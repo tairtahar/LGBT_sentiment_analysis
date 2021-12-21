@@ -14,3 +14,26 @@ To execute the program make sure to load LGBT_sentiments_from_tweets.ipynb, that
 
 Small warning run time: A full execution might take a LONG time. Avoid executing the scraper search cell that appear as an example, and the sentiment analyzers processes, that could last several hours.
 
+Citing sentiment analyzer:
+>@inproceedings{rosenthal2017semeval,
+> title={SemEval-2017 task 4: Sentiment analysis in Twitter},
+>author={Rosenthal, Sara and Farra, Noura and Nakov, Preslav},
+>booktitle={Proceedings of the 11th international workshop on semantic evaluation (SemEval-2017)},
+>pages={502--518},
+>year={2017},
+>}
+
+Citing hate speech detection:
+>@inproceedings{basile-etal-2019-semeval,
+>title = \"SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter
+>author = \"Basile, Valerio  and Bosco, Cristina  and Fersini, Elisabetta  and Nozza, Debora and Patti, Viviana and
+>Rangel Pardo, Francisco Manuel  and Rosso, Paolo  and Sanguinetti, Manuela
+>booktitle = \"Proceedings of the 13th International Workshop on Semantic Evaluation
+>year = \"2019\",\n",
+>address = \"Minneapolis, Minnesota, USA,
+>publisher = \"Association for Computational Linguistics\,
+>url = \"https://www.aclweb.org/anthology/S19-2007\,
+>doi = \"10.18653/v1/S19-2007\,
+>pages = \"54--63\
+>}
+
