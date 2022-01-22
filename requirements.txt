@@ -19,6 +19,7 @@ cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_163301
 certifi==2021.10.8
 cffi @ file:///C:/ci/cffi_1636542074879/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1638815705608/work
+clang==5.0
 click==8.0.3
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cryptography @ file:///D:/bld/cryptography_1637648947913/work
@@ -37,7 +38,7 @@ gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
 google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1635863830555/work
 google-auth-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/google-auth-oauthlib_1630497468950/work
 google-pasta==0.2.0
-grpcio==1.34.1
+grpcio==1.43.0
 h5py==3.1.0
 htmlmin==0.1.12
 huggingface-hub==0.2.1
@@ -80,10 +81,10 @@ nbconvert @ file:///C:/ci/nbconvert_1624479163777/work
 nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 networkx==2.6.3
-nltk==3.6.5
+nltk==3.6.6
 notebook @ file:///C:/ci/notebook_1637143794296/work
 numexpr @ file:///C:/ci/numexpr_1618856738664/work
-numpy==1.19.5
+numpy==1.21.0
 oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1622563202229/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 opt-einsum @ file:///home/conda/feedstock_root/build_artifacts/opt_einsum_1617859230218/work
@@ -134,7 +135,7 @@ tangled-up-in-unicode==0.1.0
 tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1636578784510/work/tensorboard-2.7.0-py3-none-any.whl
 tensorboard-data-server @ file:///D:/bld/tensorboard-data-server_1636045984250/work/tensorboard_data_server-0.6.0-py3-none-any.whl
 tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
-tensorflow==2.6.0
+tensorflow==2.6.1
 tensorflow-estimator @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-estimator_1623773901369/work/wheel_dir/tensorflow_estimator-2.5.0-py2.py3-none-any.whl
 termcolor==1.1.0
 terminado==0.9.4
