@@ -57,6 +57,7 @@ jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1637148478538/work
 jupyter-core @ file:///C:/ci/jupyter_core_1636537213213/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-widgets==1.0.2
+keras==2.6.0
 Keras-Applications==1.0.8
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
@@ -93,7 +94,7 @@ pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
 parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 phik==0.12.0
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==8.4.0
+Pillow==9.0.0
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1637050397234/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 protobuf==3.18.0
@@ -133,7 +134,7 @@ tangled-up-in-unicode==0.1.0
 tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1636578784510/work/tensorboard-2.7.0-py3-none-any.whl
 tensorboard-data-server @ file:///D:/bld/tensorboard-data-server_1636045984250/work/tensorboard_data_server-0.6.0-py3-none-any.whl
 tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
-tensorflow==2.5.2
+tensorflow==2.6.0
 tensorflow-estimator @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-estimator_1623773901369/work/wheel_dir/tensorflow_estimator-2.5.0-py2.py3-none-any.whl
 termcolor==1.1.0
 terminado==0.9.4
@@ -146,6 +147,7 @@ tornado @ file:///C:/ci/tornado_1606942392901/work
 tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
 transformers==4.13.0
+tweepy==4.4.0
 typing-extensions==3.7.4.3
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1632350318291/work
 visions==0.7.4
