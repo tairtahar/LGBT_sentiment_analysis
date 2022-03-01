@@ -84,7 +84,7 @@ networkx==2.6.3
 nltk==3.6.6
 notebook @ file:///C:/ci/notebook_1637143794296/work
 numexpr @ file:///C:/ci/numexpr_1618856738664/work
-numpy==1.19.5
+numpy==1.21.0
 oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1622563202229/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 opt-einsum @ file:///home/conda/feedstock_root/build_artifacts/opt_einsum_1617859230218/work
