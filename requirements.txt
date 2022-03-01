@@ -35,7 +35,7 @@ flatbuffers==1.12
 fonttools==4.28.3
 frozenlist @ file:///D:/bld/frozenlist_1636286794349/work
 gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
-google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1635863830555/work
+google-auth==1.35.0
 google-auth-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/google-auth-oauthlib_1630497468950/work
 google-pasta==0.2.0
 grpcio==1.43.0
@@ -84,7 +84,7 @@ networkx==2.6.3
 nltk==3.6.6
 notebook @ file:///C:/ci/notebook_1637143794296/work
 numexpr @ file:///C:/ci/numexpr_1618856738664/work
-numpy==1.21.0
+numpy==1.19.5
 oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1622563202229/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 opt-einsum @ file:///home/conda/feedstock_root/build_artifacts/opt_einsum_1617859230218/work
@@ -132,11 +132,11 @@ six==1.15.0
 snscrape==0.4.0.20211208
 soupsieve==2.3.1
 tangled-up-in-unicode==0.1.0
-tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1636578784510/work/tensorboard-2.7.0-py3-none-any.whl
+tensorboard==2.6.0
 tensorboard-data-server @ file:///D:/bld/tensorboard-data-server_1636045984250/work/tensorboard_data_server-0.6.0-py3-none-any.whl
 tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
-tensorflow==2.6.1
-tensorflow-estimator @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-estimator_1623773901369/work/wheel_dir/tensorflow_estimator-2.5.0-py2.py3-none-any.whl
+tensorflow==2.6.3
+tensorflow-estimator==2.6.0
 termcolor==1.1.0
 terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
