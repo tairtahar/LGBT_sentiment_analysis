@@ -95,7 +95,7 @@ pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
 parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 phik==0.12.0
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.0.0
+Pillow==9.0.1
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1637050397234/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 protobuf==3.18.0
